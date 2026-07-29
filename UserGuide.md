@@ -1,9 +1,3 @@
-<!--
-  Editor note: this guide ships without images. Places where a screenshot fits are marked with
-  `<!-- 📷 Screenshot: … -->` comments (invisible when rendered). To add an image, replace a marker
-  with e.g.  ![Alt text](images/main-window.png)  and drop the file under docs/images/.
-  Search this file for "📷" to find every suggested figure.
--->
 
 # RE4A User Guide
 
